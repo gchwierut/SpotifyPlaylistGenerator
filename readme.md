@@ -1,4 +1,4 @@
-# Python Script for Retrieving Data from the Spotify API
+# SpotifyPlaylistGenerator
 
 This Python script retrieves track information from the Spotify API based on a list of artists and song titles provided in a CSV file.
 
